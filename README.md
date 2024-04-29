@@ -3,7 +3,8 @@
 - Please install [Coma](https://github.com/sw-gong/coma) and [BoundaryFormer](https://github.com/mlpc-ucsd/BoundaryFormer) first as dependency.
 - Prepare your data.
 
-
+- request [code](https://zenodo.org/records/11086649)
+- 
 # Train
 - run python train.py
 
